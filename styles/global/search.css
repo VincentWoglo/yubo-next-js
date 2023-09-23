@@ -1,0 +1,28 @@
+.navSearchInput {
+    max-width: 544px;
+    width: 100%;
+    padding: 10px 46px;
+    box-sizing: border-box;
+    font-size: 16px;
+    color: #F7F7F4; 
+    background-color: #04594D;
+    border: 1px #04594D solid;
+}
+.navSearchBtn {
+    padding: 10px 32px;
+    border-radius: 0;
+    background-color: #8E4042;
+    border: 1px #8E4042 solid;
+    color: #F7F7F4;
+    font-size: 16px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+.searchWrapper {
+    width: 52%;
+}
+.searchWrapper form {
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+}
